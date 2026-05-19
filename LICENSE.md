@@ -1,4 +1,4 @@
-# 
+# automatic perpetual trading bot scripts is the best perpetual trading bot scripts with stop-loss and liquidation-sniping. Safe, reliable, and optimized for CEX, DEX, and
 
 
 
